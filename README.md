@@ -1,7 +1,13 @@
+## Student Information
+
+Name: Chipemba Bwacha
+Student ID: 046975124
+
 ## Course Information
 
 Course Code: MAI201 MLOps  
 Date: 2026-06-04
+
 
 # MLOps Git Assignment
 
