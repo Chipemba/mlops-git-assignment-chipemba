@@ -1,3 +1,8 @@
+## Course Information
+
+Course Code: MAI201 MLOps  
+Date: 2026-06-04
+
 # MLOps Git Assignment
 
 This repository was created for MAI201 MLOps Assignment 1: Git Branching & Collaboration.
