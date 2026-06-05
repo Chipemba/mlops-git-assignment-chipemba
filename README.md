@@ -1,3 +1,8 @@
+## Student Information
+
+Name: Chipemba Bwacha
+Student ID: 046975124
+
 # MLOps Git Assignment
 
 This repository was created for MAI201 MLOps Assignment 1: Git Branching & Collaboration.
