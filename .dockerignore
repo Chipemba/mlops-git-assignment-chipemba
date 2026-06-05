@@ -31,3 +31,7 @@ htmlcov/
 # Environment variables
 .env
 
+# Build artifacts
+build/
+dist/
+*.egg-info/
