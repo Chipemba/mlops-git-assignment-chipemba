@@ -20,3 +20,7 @@ Before working with this repository, you should have:
 1. Clone the repository:
    ```bash
    git clone https://github.com/YOUR-USERNAME/mlops-git-assignment-chibwe-morning.git mlops-git-assignment-chipemba
+
+## Assignment Focus
+
+This assignment focuses only on Git and version control. It does not include machine learning, DVC, or MLflow.
